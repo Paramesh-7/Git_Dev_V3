@@ -1,2 +1,4 @@
 this is sample file 1
 commit reset 1
+new testing delete this
+ itha delete panu athu venam
