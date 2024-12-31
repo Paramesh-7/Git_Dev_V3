@@ -5,3 +5,4 @@ git revert 2
 =======
 commit reset 2
 >>>>>>> ba2913bc6867c1da0e7b7e77094b8f4d656bc021
+this is compare2
