@@ -1,3 +1,8 @@
 this is sample file 1
 commit reset 1
+<<<<<<< HEAD
 git revert 1
+=======
+new testing delete this
+ itha delete panu athu venam
+>>>>>>> ba2913bc6867c1da0e7b7e77094b8f4d656bc021
